@@ -1,1 +1,2 @@
-# FocusFlow-
+# FocusFlow
+A productivity online tool called the Procrastination Tracker (FocusFlow) was created to assist users in comprehending and overcoming procrastination. People may use data-driven insights to manage concentrate time, schedule daily chores, and examine their behavioral patterns. The system combines time monitoring, reminders, and motivational analytics to promote self-discipline and steady growth. 
