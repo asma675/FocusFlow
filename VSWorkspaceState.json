@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.next",
+    "\\.next\\cache",
+    "\\.next\\server",
+    "\\.next\\static",
+    "\\.next\\static\\chunks",
+    "\\.next\\static\\development",
+    "\\components",
+    "\\pages",
+    "\\styles"
+  ],
+  "SelectedNode": "\\.next\\static",
+  "PreviewInSolutionExplorer": false
+}
